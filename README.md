@@ -17,4 +17,4 @@ The filters are located on the left side of the page, and allow visitors to filt
 
 ## Summary
 
-One drawback of this design is that 
+One drawback of this design is that the data does not seem to be complete, some entries are hoaxes/unverified. The design could be improved by adding a keyword search to the list of filters, this would give would be researchers more options for searching for data when they don't have the location of the sighting they're looking for. Another improvement could be to allow other researchers to add or edit information to the database, something like a wiki page; this would increase the accuracy of the information and broaden the database.
